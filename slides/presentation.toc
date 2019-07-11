@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Dagens program}{3}{0}{1}
+\beamer@sectionintoc {2}{Blockchain kort fortalt}{4}{0}{2}
+\beamer@sectionintoc {3}{De 3 hovedomr\IeC {\r a}der}{17}{0}{3}
+\beamer@sectionintoc {4}{Anvendelses Muligheder}{36}{0}{4}
+\beamer@sectionintoc {5}{Opsamling og Sp\IeC {\o }rgsm\IeC {\r a}l}{37}{0}{5}
